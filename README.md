@@ -9,7 +9,7 @@ Este proyecto es una **Calculadora Web Estética** desarrollada con **HTML**, **
 - 🌐 **Enlaces:** Incluye accesos rápidos a tu portafolio y LinkedIn.
 
 ## 🚀 **Cómo usar:**
-1. Clona este repositorio: `git clone https://github.com/juliancancelo/calculadora-html`
+1. Clona este repositorio: `git clone https://github.com/juliancancelo/calculadora`
 2. Abre el archivo `index.html` en tu navegador.
 
 ## 📚 **Estructura del proyecto:**
